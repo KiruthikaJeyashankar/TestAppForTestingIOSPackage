@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "test-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KiruthikaJeyashankar/test-swift-package",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a099fdcfc0eb70c0e44ee023a11994d76f1c5c30"
+      }
+    }
+  ],
+  "version" : 2
+}
